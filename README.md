@@ -25,7 +25,8 @@ npm install
 ### Execution 
 Execute in terminal:
 ``` 
-npx mocha test.mjs
+npx mocha tests/specs/<name of the file>.mjs
+
 ``` 
 
 ## Results example.
